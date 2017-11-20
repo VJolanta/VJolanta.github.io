@@ -28,3 +28,17 @@
 .my-4 {
     border-style: none;
 }
+.section-title {
+    text-align: center;
+    margin: 30px;
+}
+.separation {
+    display: inline-block;
+    width: 70px;
+    height: 1px;
+    border-top: 1px solid #bbb;
+    margin: auto;
+}
+.grey_bg {
+    background-color:  rgb(247, 247, 247);
+}
