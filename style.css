@@ -1,0 +1,30 @@
+.jumbotron {
+    background: url("img/bg-3.jpg") no-repeat 0 center;
+    background-size: cover;
+    
+}
+
+@media (min-width: 992px) {
+    .jumbotron {
+        padding: 4rem 2rem;
+        margin: 30px;
+    }
+}
+.display-3 {
+    color: white;
+}
+.lead {
+    color: white;
+}
+.col-sm-6 .material-icons {
+    color: rgb(70, 163, 74);
+    font-size: 36px;
+    display: inline-block;
+}    
+
+.nav-item {
+    text-transform: uppercase;
+}
+.my-4 {
+    border-style: none;
+}
